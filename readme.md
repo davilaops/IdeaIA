@@ -1,4 +1,4 @@
-## 💡 BizSpark - Gerador de Ideias de Negócio
+## 💡 IdeaIA - Gerador de Ideias de Negócio
 
 Um gerador de ideias de negócio simples e intuitivo, construído com foco em usabilidade e experiência do usuário (UX).
 
@@ -6,7 +6,7 @@ Um gerador de ideias de negócio simples e intuitivo, construído com foco em us
 
 ## ✨ Recursos
 
-O BizSpark permite aos usuários:
+O IdeaIA permite aos usuários:
 
 * **Autenticação Simples:** Login/Cadastro automático (as credenciais são criadas automaticamente se o email for novo).
 * **Geração de Ideias:** Gere ideias de negócio criativas com base em uma **palavra-chave** inserida pelo usuário, utilizando templates de geração.
@@ -74,5 +74,6 @@ npm run dev
 # ou yarn dev
 # ou pnpm dev
 O aplicativo estará acessível na porta padrão do Next.js.
+
 
 
