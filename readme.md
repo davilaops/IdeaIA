@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 ## 💡 BizSpark - Gerador de Ideias de Negócio
 
 Um gerador de ideias de negócio simples e intuitivo, construído com foco em usabilidade e experiência do usuário (UX).
@@ -75,4 +74,5 @@ npm run dev
 # ou yarn dev
 # ou pnpm dev
 O aplicativo estará acessível na porta padrão do Next.js.
+
 
